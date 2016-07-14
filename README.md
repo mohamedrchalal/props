@@ -1,11 +1,11 @@
-# Why we should use Angular 2 with typescript
+### *Why we should use Angular 2 with typescript*
 
-## Code Unification
+1. Code Unification
 
-## Future-Proofing
+2. Future-Proofing
 
-## Automated First Round of Testing in Compile-Time
+3. Automated First Round of Testing in Compile-Time
 
-## Speed & Performance
+4. Speed & Performance
 
-## Supported and Maintained by Top Google Engineers
+5. Supported and Maintained by Top Google Engineers

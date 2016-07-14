@@ -17,7 +17,7 @@
 
 3. Testing
   
-  * As a start up(kind of), and most importantly as a start-up with who does not have a QA Engineer, we can benefit massively from the use of TS, because its compiletime error reports will act as a first round of unit tests.
+  * As a start up (kind of), and most importantly as a start-up that does not have a QA Engineer, we can benefit massively from the use of TS, because its compiletime error reports will act as a first round of unit tests.
   * Since Angular 2 modules are now just typescript classes, unit testing is even easier and more powerful than ever before.
 
 4. Speed & Performance

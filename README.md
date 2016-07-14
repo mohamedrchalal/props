@@ -11,7 +11,7 @@
   * Additional features:
     * Optional Static Typing
     * Decorators
-    * Template Strings + Interpolation (instead of concatenating "<p class='"+variable+"'>" +othervar+"</p>" etc..., instead you would use backticks like so (`<p class="${variable}">${othervar}</p>`). this makes templating efficient, easier to read and with 1 and 2 way data binding this becomes extremely powerful especially if you are building modular apps with features that generate widgets/ui.
+    * Template Strings + Interpolation (instead of concatenating "<p class='"+variable+"'>" +othervar+"</p>" etc..., instead you would use backticks like so (`    <p class="${variable}">${othervar}</p>    `). this makes templating efficient, easier to read and with 1 and 2 way data binding this becomes extremely powerful especially if you are building modular apps with features that generate widgets/ui.
     * Intellisense 
     * +many more!
 
